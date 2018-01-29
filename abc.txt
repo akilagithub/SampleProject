@@ -2,3 +2,5 @@ Demo
 sample
 Gitsession
 Activity
+Sample
+Activity
